@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 68882d7da0640e8167e4                            #生成的clientID
   clientSecret: e522573c9aab6109309a8bf9a7f27228d7f61751    #生成的clientSecret
-  repo: litany-lty.github.io    #仓库名称
+  repo: myIssues    #仓库名称
   owner: litany-lty    #github用户名
   admin: litany-lty
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
