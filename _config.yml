@@ -67,7 +67,7 @@ gitalk:
   repo: 'myIssues'    #仓库名称
   owner: 'litany'    #github用户名
   admin: ['litany','litany-lty']
-  id : 'github.com/litany-lty/myIssues/issues/1'
+  id : 'issues'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
