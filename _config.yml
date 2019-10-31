@@ -2,7 +2,7 @@
 title: Litany &
 SEOTitle: 天玉的博客 | Litany - Blog
 header-img: img/post-bg-desk.jpg
-email: qiubaiying@gmail.com
+email: litany@aliyun.com
 description: "Welcome ! This is Litany's blog."
 keyword: "litany, litanyboke, 天玉的博客, litianyu, 李天玉, Java, litany java,Litany Blog"
 url: "http://www.litany.cn"          # your host, for absolute URL
@@ -64,9 +64,9 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: 394273ad64d31a6deef1                            #生成的clientID
   clientSecret: 369a25f496af11dcf239d5c579333784b2727079    #生成的clientSecret
-  repo: 'myIssues'    #仓库名称
+  repo: 'litany-lty.github.io'    #仓库名称
   owner: 'litany'    #github用户名
-  admin: 'litany-lty'
+  admin: 'litany'
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
