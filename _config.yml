@@ -66,7 +66,7 @@ gitalk:
   clientSecret: e522573c9aab6109309a8bf9a7f27228d7f61751    #生成的clientSecret
   repo: myIssues    #仓库名称
   owner: litany-lty    #github用户名
-  admin: litany-lty
+  admin: ['litany-lty']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
