@@ -57,16 +57,16 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: litany_lty
 
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
-  admin: qiubaiying
+  clientID: 68882d7da0640e8167e4                            #生成的clientID
+  clientSecret: e522573c9aab6109309a8bf9a7f27228d7f61751    #生成的clientSecret
+  repo: litany-lty.github.io    #仓库名称
+  owner: litany-lty    #github用户名
+  admin: litany-lty
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
