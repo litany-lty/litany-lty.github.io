@@ -68,7 +68,6 @@ gitalk:
   owner: 'litany-lty'    #github用户名
   admin: ['litany-lty']
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
-  id: 'https://github.com/litany-lty/myIssues/issues/1'
 
 
 # 统计
