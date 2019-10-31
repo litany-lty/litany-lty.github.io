@@ -62,12 +62,12 @@ kramdown:
 # Gitalk
 gitalk:
   enable: true    #是否开启Gitalk评论
-  client_id: 394273ad64d31a6deef1                            #生成的clientID
-  client_secret: 369a25f496af11dcf239d5c579333784b2727079    #生成的clientSecret
+  clientID: 394273ad64d31a6deef1                            #生成的clientID
+  clientSecret: 369a25f496af11dcf239d5c579333784b2727079    #生成的clientSecret
   repo: 'myIssues'    #仓库名称
   owner: 'litany-lty'    #github用户名
-  admin_user: 'litany-lty'
-  distraction_free_mode: true #是否启用类似FB的阴影遮罩
+  admin: ['litany-lty']
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
