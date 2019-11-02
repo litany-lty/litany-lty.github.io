@@ -1,13 +1,13 @@
 {
-  "name": "BY Blog",
-  "short_name": "BY Blog",
-  "description": "A personal blog by engineer",
+  "name": "Blog-litany",
+  "short_name": "Blog-litany",
+  "description": "This is Litany's Bolg",
   "icons": [{
-    "src": "icons/pwa_icon_128.png",
+    "src": "img/litany-icon.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/pwa_icon_512.png",
+    "src": "img/litany-icon.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
