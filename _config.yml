@@ -20,7 +20,11 @@ RSS: false
 
 zhihu_username:     litany_lty
 github_username:    litany-lty
+<<<<<<< HEAD
 weibo_username:     ice_Litany
+=======
+weibo_username:     u/6468979021
+>>>>>>> 6ce6310715d7518c313bc56e1f50b82136089a16
 jianshu_username:   9b362d71a0b1
 #twitter_username:   qiubaiying
 
